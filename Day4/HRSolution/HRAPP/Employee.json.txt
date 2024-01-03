@@ -1,0 +1,19 @@
+[
+    {
+        "Id": 1,
+        "Name": "John Doe",
+        "Department": "HR",
+        "Email": "john@example.com"
+    },
+    {
+        "Id": 2,
+        "Name": "Alice Smith",
+        "Department": "Marketing",
+        "Email": "alice@example.com"
+    },
+    {
+        "Id": 3,
+        "Name": "Bob Johnson",
+        "Department": "Finance",
+        "Email": "bob@example.com"
+    }
